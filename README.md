@@ -11,13 +11,13 @@
 
 
 ## My Github Statistics 🧐
-[![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabhi&show_icons=true&theme=highcontrast&count_private=true)](https://github.com/fabhi/)
+[![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabhi&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true)](https://github.com/fabhi/)
 
 
 ## My Top Languages ✍✍
 NOTE: *Top languages do not indicate my skill level/proficiency. Rather, it's a metric of which languages I have the most code on github servers.*
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabhi&theme=chartreuse-dark)](https://github.com/fabhi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabhi&theme=chartreuse-dark&langs_count=10)](https://github.com/fabhi)
 
 **Visitor Count**  (March 04, 2021 onwards)
 
