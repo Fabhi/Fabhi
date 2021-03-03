@@ -1,10 +1,13 @@
 ### Hi there 👋
-**I am passionate audidactic programmer.**
+
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+
+**I am a passionate autodidactic programmer.**
 **I welcome you to my github profile!** 🤗🤗
 
 
 - 📫 How to reach me : **[Email me anything](mailto:fabhi@protonmail.com)**
-- Primary coding language - Python
+- 🤷‍♂️ Primary coding language - Python
 - 🔭 I’m currently working on STM32
 - 🌱 I’m currently learning Flutter and Baremetal programming
 
@@ -35,3 +38,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</br>
+</br>
+</br>
+
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
