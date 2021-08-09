@@ -5,7 +5,7 @@
 
 
 - 📫 How to reach me : **[Email me anything](mailto:fabhi@protonmail.com)**
-- 📫 Connect to me : **[LinkedIn](https://www.linkedin.com/in/abhisheksriva/)**
+- 📫 Connect with me : **[LinkedIn](https://www.linkedin.com/in/abhisheksriva/)**
 - 🤷‍♂️ Primary coding language - Python
 - 🔭 I’m currently working on STM32
 - 🌱 I’m currently learning Flutter and Baremetal programming
