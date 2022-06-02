@@ -16,7 +16,6 @@
 
 
 ## My Top Languages ✍✍
-NOTE: *Top languages do not indicate my skill level/proficiency. Rather, it's a metric of which languages I have the most code on github servers.*
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabhi&theme=chartreuse-dark&langs_count=10)](https://github.com/fabhi)
 
